@@ -1,0 +1,9 @@
+openai 
+pandas 
+matplotlib 
+yfinance 
+streamlit
+scipy
+tenacity
+tiktoken
+termcolor
